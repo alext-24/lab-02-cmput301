@@ -10,4 +10,4 @@
 - This kotlinlang page talks about using nullable types: https://kotlinlang.org/docs/null-safety.html?utm_source=chatgpt.com#nullable-types-and-non-nullable-types, used for \<String?\> to allow nulls and strings in the same variable
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+Samuel Zong - mzong
